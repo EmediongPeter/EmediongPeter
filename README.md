@@ -56,10 +56,10 @@ AI Agents · DevOps Automation · Scalable Microservices · Solana Smart Contrac
 
 <p align="center">
 <a href="https://github.com/emediongpeter/solana-dapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emediongpeter&repo=solana-dapp&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmediongPeter&repo=multiagent-bot&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 <a href="https://github.com/emediongpeter/service-connect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emediongpeter&repo=service-connect&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmediongPeter&repo=fundme-foundry&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 </p>
 
@@ -73,5 +73,5 @@ Let’s build something that matters.
 ---
 
 <p align="center">
-📫 Reach me on <a href="mailto:emediongpeter@gmail.com">Email</a> or connect via <a href="https://linkedin.com/in/emediongpeter">LinkedIn</a>
+📫 Reach me on <a href="mailto:emediongpeter.tech@gmail.com">Email</a> or connect via <a href="https://linkedin.com/in/emediongpeter">LinkedIn</a>
 </p>
