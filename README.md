@@ -55,10 +55,10 @@ AI Agents · DevOps Automation · Scalable Microservices · Solana Smart Contrac
 <h3 align="center">⚡ Featured Projects</h3>
 
 <p align="center">
-<a href="https://github.com/emediongpeter/solana-dapp">
+<a href="https://github.com/emediongpeter/multiagent-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmediongPeter&repo=multiagent-bot&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
-<a href="https://github.com/emediongpeter/service-connect">
+<a href="https://github.com/emediongpeter/fundme-foundry">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmediongPeter&repo=fundme-foundry&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff" />
 </a>
 </p>
